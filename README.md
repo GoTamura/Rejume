@@ -11,8 +11,9 @@
 Github: [GoTamura](https://github.com/GoTamura)
 
 大規模であるため可視化することの難しい気象のアンサンブルデータの可視化について研究しています。
-3DCGやGPUに興味を持っています。
+3DCGやGPUに興味を持っています。  
 
+![resume](resume.png)
 ----------------
 ## Education 
 - 神戸大学工学部情報知能工学科  
